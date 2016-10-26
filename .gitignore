@@ -1,2 +1,5 @@
 
 Makefile.local
+bin/*
+.idea
+.vscode
